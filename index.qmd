@@ -3,7 +3,7 @@ title: ""
 format:
   html: 
     grid: 
-      body-width: 1800px
+      body-width: 400px
     resources: 
       - shinylive-sw.js
 filters:
