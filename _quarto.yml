@@ -8,3 +8,12 @@ project:
     - index.html
 execute:
   freeze: auto
+  
+  
+format:
+  html: 
+    grid:
+      sidebar-width: 10px
+      body-width: 1900px
+      margin-width: 10px
+      gutter-width: 1.5rem
