@@ -6,8 +6,7 @@ project:
 
   resources:
     - index.html
-execute:
-  freeze: auto
+
   
   
 format:
