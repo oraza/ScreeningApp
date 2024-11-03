@@ -2,8 +2,11 @@
 title: ""
 format:
   html: 
-    grid: 
+    grid:
+      sidebar-width: 10px 
       body-width: 1600px
+      margin-width: 10px
+      gutter-width: 1.5rem
     resources: 
       - shinylive-sw.js
 filters:
