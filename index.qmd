@@ -2,11 +2,7 @@
 title: ""
 format:
   html: 
-    grid:
-      sidebar-width: 10px 
-      body-width: 1600px
-      margin-width: 10px
-      gutter-width: 1.5rem
+    page-layout: custom
     resources: 
       - shinylive-sw.js
 filters:
@@ -16,7 +12,7 @@ filters:
 ```{shinylive-r}
 #| standalone: true
 #| viewerHeight: 1000
-#| viewerWidth: 1000
+#| viewerWidth: 300
 
 library(shiny)
 
