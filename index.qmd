@@ -1,8 +1,8 @@
 ---
 title: ""
-format:
-  html: 
-    page-layout: custom
+format: 
+  html:
+    page-layout: full
     resources: 
       - shinylive-sw.js
 filters:
